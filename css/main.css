@@ -1,44 +1,16 @@
-.navbar{
-	background:#fff;
-	padding-left: 3em;
-	padding-top: 2em;
+.navbar {
+	margin-top: 0.5em;
+	margin-left: 0.5em;
 }
 .navbar-brand img{
 	width: 4em;
 	height: 4em;
-}
-.navbar-nav{
-	padding-left: 3em;
-}
-.nav-link , .navbar-brand{
-	color: #f4f4f4;
-	cursor: pointer;
-}
-.nav-link{
-	margin-right: 1em !important;
-}
-.nav-link:hover{
-	background: #f4f4f4;
-	color: #f97300;
-}
-.navbar-collapse{
-	justify-content: center;
-}
-.navbar-toggler{
-	background:#fff !important;
+	margin-right: 2em;
 }
 .nav-item{
 	padding-right: 5em;
 }
-.nav-item .btn{
-	border-radius: 100px;
-	box-shadow: 5px 5px 5px rgba(1, 148, 218, 0.5);
-}
-.nav-item .navbar-glasses .glasses{
-	width: 2.5em;
-	height: 2.5em;
-}
-.btn-outline-primary img{
-	width: 1.2em;
-	height: 1.2em;
+.carousel-item img{
+	width: 12em;
+	height: 12em;
 }
